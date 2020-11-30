@@ -1,0 +1,48 @@
+[{  "id":1,
+    "name": "vanilla",
+    "price": 0.99,
+    "url" : "images/vanilla.jpg",
+    "color":"wheat"
+},
+{   "id":2,  
+    "name": "chocolate",
+    "price": 1.50,
+    "url" : "images/chocolate.jpg",
+    "color":"brown"
+},
+{   "id":3,
+    "name": "strawberry",
+    "price": 1.79,
+    "url" : "images/strawberry.jpg",
+    "color":"pink"
+},
+{   "id":4,
+    "name": "banana",
+    "price": 1.99,
+    "url" : "images/banana.jpg",
+    "color":"yellow"
+},
+{  "id":5,
+    "name": "cherry",
+    "price": 1.20,
+    "url" : "images/cherry.jpg",
+    "color":"red"
+},
+{   "id":6,  
+    "name": "mango",
+    "price": 2.50,
+    "url" : "images/mango.jpg",
+    "color":"orangered"
+},
+{   "id":7,
+    "name": "kiwi",
+    "price": 2.99,
+    "url" : "images/kiwi.jpg",
+    "color":"green"
+},
+{   "id":8,
+    "name": "orange",
+    "price": 3.99,
+    "url" : "images/orange.jpg",
+    "color":"orange"
+}]
